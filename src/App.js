@@ -16,6 +16,7 @@ const cards = [
   { id: 10, color: "#43aa8b", label: "Kiwi", display: false },
   { id: 11, color: "#577590", label: "Plum", display: false },
   { id: 12, color: "#577590", label: "Plum", display: false },    
+     
            
 ];
 
